@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<college>
+    <s>
+        <id>123</id>
+        <name>abc</name>
+    </s>
+    <s>
+        <id>12346</id>
+        <name>ared</name>
+    </s>
+    <s>
+        <id>8523</id>
+        <name>jared</name>
+    </s>
+</college>
